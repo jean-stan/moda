@@ -1,0 +1,88 @@
+<html>
+<head>
+<title> viaja por colombia: todo sobre turismo en colombia </title>
+</head>
+<body>
+<center>
+<table border=0 width=95% bgcolor= navy blue>
+<tr height=45>
+       <td width=8%> <font color=white> <font face="arial" size="3"> <b> Inicio </b>  </td>
+       <td width=6%> <font color=white> <font face="arial" size="3"> <b> Blog </b> </td>
+       <td width=8%> <font color=white> <font face="arial" size="3"> <b> Publicidad </b> </td>
+       <td a<<<width=8%> <font color=white> <font face="arial" size="3"> <b> Mi cuenta </b>  </td>
+       <td width=10%> <font color=white> <font face="arial" size="3"> <b> Registra Empresa </b>  </td>
+       <td width=8%> <font color=white> <font face="arial" size="3"> <b> Contactenos </b> </td>
+       <td width=26%> </td>
+       <td width=4%> <img src="imagen\espa.jpeg"> </td>
+       <td width=4%> <img src="imagen\alemania.jpeg"> </td>
+       <td width=4%> <img src="imagen\estados.jpeg"> </td>
+       <td width=4%> <img src="imagen\francia.jpeg"> </td>
+       <td width=5%> <img src="imagen\brasil.jpeg"> </td>
+</tr>
+</table>
+<center>
+<table border=0 width=95%>
+<tr height=130>
+
+       <td width=6% colspan=11 align="left"> <img src="imagen\viaje.jpeg">  </td>
+</tr>
+<table border=0 width=95% bgcolor=silver>
+<tr height=20>
+
+       <td width=5%>  </td>
+       <td width=10%> <font color=blue> <b> Actualidad </b> </td>
+       <td width=11%> <font color=blue> <b> Ferias y Fiestas </b> </td>
+       <td width=10%> <font color=blue> <b> Destinos </b> </td>
+       <td width=10%> <font color=blue> <b> Hoteles  </b> </td>
+       <td width=11%> <font color=blue> <b> Viaja por tierra </b> </td>
+       <td width=11%> <font color=blue> <b> Viaja Por Aire </b> </td>
+       <td width=12%> <font color=blue> <b> Planes y Operadores </b> </td>
+       <td width=10%> <font color=blue> <b>Gastronomia </b> </td>
+       <td width=5%>  </td>
+       
+
+</tr>
+
+<table border=0 width=95% bgcolor=silver>
+<tr height=20>
+       <td width=5%>  </td>
+       <td width=10%> <font color=blue> <b> Multimedia </b> </td>
+       <td width=11%>  </td>
+       <td width=10%>  </td>
+       <td width=10%>  </td>
+       <td width=11%>  </td>
+       <td width=11%>  </td>
+       <td width=12%>  </td>
+       <td width=10%>  </td>
+       <td width=5%>  </td>
+   
+</tr>      
+<table border=0 width=95% >
+<p>
+<tr height=40>
+       <td width=70%> <font face="times rowman" size="5"> <b> Zoologicos y bioparques de colombia </b>   </td>
+       <td width=25%> </td>
+</tr> 
+<table border=0 width=95% >
+<p>
+<tr height=40> 
+       <td width=70%> <font color= bronw> <font face="arial" size="3"> Informacion de los siguientes partes y zoologicos como el zoologico santa cruz, el zoologico santafe, el zoologico matecaña, <br> entre otros. </td>
+       <td width=25%> </td>
+</tr> 
+<table border=0 width=95% >
+<p>
+<tr height=150>
+       <td width=21%> <img src="imagen\kun.jpeg"> </td>
+       <td width=22%> <img src="imagen\leon.jpeg"> </td>
+       <td width=25%> <img src="imagen\bola.jpeg"> </td>
+       <td width=27%> </td> 
+</tr> 
+<table border=0 width=95% >
+<tr height=20>
+
+<td width=23%> <font color= green> <font face="arial" size="3"> <b> Bioparque Ukumani </b> </td>
+<td width=24%> <font color= green> <font face="arial" size="3"> <b> Guatica Parque Fincaventura </b> </td>
+<td width=24%> <font color= green> <font face="arial" size="3"> <b> Zoologico de Barranquilla </b> </td>
+<td width=26%> </td>
+
+</tr>      
